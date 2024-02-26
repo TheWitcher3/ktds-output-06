@@ -1,4 +1,4 @@
-# ktds-output-06
+[stu06_accessKeys.csv](https://github.com/TheWitcher3/ktds-output-06/files/14400038/stu06_accessKeys.csv)# ktds-output-06
 MAS Final Project
 
 - 조원  
@@ -55,5 +55,11 @@ AWS 작업환경 설치 설치 (aws cli, eksctl, kubectl, docker, docker-compose
 	sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 
 12. 설치 확인 :
-![image](https://github.com/TheWitcher3/ktds-output-06/assets/10649803/db1ef677-84ff-4d10-82ad-388ad657783a)
+![image](https://github.com/TheWitcher3/ktds-output-06/assets/10649803/aab56a49-5805-4fc3-b784-7010b520ffa5)
+
+13. Access Key : Access Key 파일 확인
+
+
+
+
 
