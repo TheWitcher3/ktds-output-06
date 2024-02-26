@@ -1,7 +1,8 @@
 # ktds-output-06
 MAS Final Project
 
-- 조원
+- 조원  
+이홍석, 김종철, 박준표, 이영효
 
 
 
