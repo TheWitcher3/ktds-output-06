@@ -55,7 +55,8 @@ AWS 작업환경 설치 설치 (aws cli, eksctl, kubectl, docker, docker-compose
 	sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 
 12. 설치 확인 :
-    ![2-1](https://github.com/TheWitcher3/ktds-output-06/assets/10649803/9ab60c5e-0f51-4d80-a5b4-c2e3a660a76e)
+  ![2-1_result](https://github.com/TheWitcher3/ktds-output-06/assets/10649803/c03fa249-f4ae-4473-a909-f00e6b3c4e1f)
+
 
 
 
