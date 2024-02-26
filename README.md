@@ -59,7 +59,9 @@ AWS 작업환경 설치 설치 (aws cli, eksctl, kubectl, docker, docker-compose
 
 
 
-
+CodeBulid
+코드 빌드 정책 만들때 s3 PullAccess 권한이 있어야 s3에 업로드 됨
+![CodeBuildServiceRole](https://github.com/TheWitcher3/ktds-output-06/assets/10649803/ebfa1f40-1ff1-441c-ac22-5d802be9f706)
 
 
 
