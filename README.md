@@ -66,9 +66,11 @@ CodeBulid
 
 final-lectures 4-1
  1. WordPress application 를 docker-compose.yml 파일을 생성해서 수행
- 2. ![4-1-1](https://github.com/TheWitcher3/ktds-output-06/assets/10649803/2ad8e456-ac1b-4339-aced-5bc233189541)
- 3. docker-compose.yml 생성 ![4-1-2](https://github.com/TheWitcher3/ktds-output-06/assets/10649803/ca602d6b-c7b0-4d0e-9132-bec024da62a0)
- 4. wordpress 서비스 구동 ![4-1-3](https://github.com/TheWitcher3/ktds-output-06/assets/10649803/0789ccdc-8058-461c-ba7b-db815dfa469c)
+   ![4-1-1](https://github.com/TheWitcher3/ktds-output-06/assets/10649803/2ad8e456-ac1b-4339-aced-5bc233189541)
+ 2. docker-compose.yml 생성 
+   ![4-1-2](https://github.com/TheWitcher3/ktds-output-06/assets/10649803/ca602d6b-c7b0-4d0e-9132-bec024da62a0)
+ 3. wordpress 서비스 구동 
+   ![4-1-3](https://github.com/TheWitcher3/ktds-output-06/assets/10649803/0789ccdc-8058-461c-ba7b-db815dfa469c)
 
 
 
