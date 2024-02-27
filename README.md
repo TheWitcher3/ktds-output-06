@@ -1,4 +1,4 @@
-[stu06_accessKeys.csv](https://github.com/TheWitcher3/ktds-output-06/files/14400038/stu06_accessKeys.csv)# ktds-output-06
+# ktds-output-06
 MAS Final Project
 
 - 조원  
